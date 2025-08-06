@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSVPManager.API", "RSVPManager.API.csproj", "{7BCAAB4D-5280-4924-A0D9-94FAD8C26568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BCAAB4D-5280-4924-A0D9-94FAD8C26568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCAAB4D-5280-4924-A0D9-94FAD8C26568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCAAB4D-5280-4924-A0D9-94FAD8C26568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCAAB4D-5280-4924-A0D9-94FAD8C26568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C70B36-1EE9-417B-852D-5F73F0151E92}
+	EndGlobalSection
+EndGlobal

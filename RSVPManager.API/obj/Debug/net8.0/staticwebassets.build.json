@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xwi1zOWihA6yiwyoF/Y0aOxOjONYA5KixpkBfXAAYPc=",
+  "Source": "RSVPManager.API",
+  "BasePath": "_content/RSVPManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
